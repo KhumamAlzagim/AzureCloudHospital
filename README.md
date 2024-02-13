@@ -38,6 +38,27 @@ CBHMS is designed to be scalable, secure, and user-friendly, addressing the need
 
 ## Related Material
 - [High-level Design Document](https://github.com/KhumamAlzagim/AzureCloudHospital/blob/main/High-level-Design.docx)
+- Explination Videos:
+
+Managment component
+![Managment component](image.png)
+[View Video](https://www.youtube.com/watch?v=Vji9HhW9as0)
+
+
+
+![Authentication component](image-1.png)
+[View Video](https://www.youtube.com/watch?v=hS_-vjzjeTA)
+
+
+
+![Appointment component](image-3.png)
+[View Video](https://www.youtube.com/watch?v=qYTn44RuSyE)
+
+
+
+![Deployment,explaination,Expose of WebsiteCode](image-2.png)
+[View Video](https://www.youtube.com/watch?v=BX9FJ0avyWM)
+
 
 ---
 
