@@ -37,7 +37,7 @@ CBHMS employs a detailed data structure for Users, Patients, Hospitals, and Doct
 CBHMS is designed to be scalable, secure, and user-friendly, addressing the needs of patients, healthcare providers, and administrators. Future enhancements could include AI-driven diagnostics, telemedicine, and more integrated patient engagement tools.
 
 ## Related Material
-- [Requirement Specification Document](link-to-document)
+- [Requirement Specification Document](thttps://github.com/KhumamAlzagim/AzureCloudHospital/blob/main/High-level-Design.docx)
 
 ---
 
