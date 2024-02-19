@@ -9,7 +9,7 @@
 
 ## Overview
 ![Cloud-Based Healthcare Management System](Scetch.jpg)
-The Cloud-Based Healthcare Management System (CBHMS), developed by Team Dream at the American University of Sharjah, College of Engineering, Computer Science and Engineering Department, is a comprehensive solution designed to streamline healthcare data management. This system centralizes various patient-related data and medical resources, integrating seamlessly with existing Hospital Information Systems (HIS).
+The Cloud-Based Healthcare Management System (CBHMS), developed by our team at the American University of Sharjah, College of Engineering, Computer Science and Engineering Department, is a comprehensive solution designed to streamline healthcare data management. This system centralizes various patient-related data and medical resources, integrating seamlessly with existing Hospital Information Systems (HIS).
 
 ### 1.1 Software Context
 CBHMS evolves beyond traditional healthcare systems by offering a centralized approach to managing detailed patient demographics, medical histories, and diagnostic images. Through its well-crafted APIs, CBHMS integrates with a range of diagnostic tools and offers a real-time notification system.
